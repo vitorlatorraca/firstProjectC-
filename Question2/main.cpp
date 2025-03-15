@@ -19,7 +19,7 @@ int main() {
 
     cout << "------------------------------\n";
 
-    // Demonstração da classe Circle
+    // Demonstração da classe Circle.
     double radius;
     cout << "Enter circle radius: ";
     cin >> radius;

@@ -19,7 +19,7 @@ int main() {
 
     cout << "------------------------------\n";
 
-    // Demonstração da classe Circle. corinthians campeao paulista//
+    // Demonstração da classe Circle.
 
 
     double radius;
